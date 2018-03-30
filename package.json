@@ -1,0 +1,14 @@
+{
+  "name": "python_flask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "^2.5.16"
+  }
+}
